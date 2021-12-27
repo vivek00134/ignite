@@ -1,3 +1,6 @@
+This is a project that I made while learning React and Redux from an online course.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
